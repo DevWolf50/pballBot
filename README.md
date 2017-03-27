@@ -9,7 +9,7 @@ Starbot is [GitHub's trending open-source](https://github.com/trending/) page, r
 
 ### Supported `/slash` commands
 
-Create a `/starbot` [custom slash command](https://api.slack.com/slash-commands), using the URL: `{app-name}.herokuapp.com/commands/starbot`. *Take note of the provided `token`, this is used to verify requests come from Slack.*
+Create a `/starbot` [custom slash command](https://api.slack.com/slash-commands), using the URL: `{app-name}.herokuapp.com/commands/picklebot`. *Take note of the provided `token`, this is used to verify requests come from Slack.*
 
 - `/starbot` or `/starbot help` - List available commands
 - `/starbot repos` - Display trending GitHub projects
