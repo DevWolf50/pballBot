@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node ./src",
     "notify": "node ./src/tasks/notify",
-    "test": "./node_modules/.bin/eslint index.js"
+    "test": "./node_modules/.bin/eslint ./src/index.js"
   },
   "author": {
     "email": "creager@heroku.com",
